@@ -1,6 +1,7 @@
+setuptools
 protobuf<=3.20.*
 lie-learn
 tensorflow<2
 pynvrtc
-cupy-cuda102
-numpy==1.16.*
+numpy==1.18.*
+cupy-cuda116
